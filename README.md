@@ -68,3 +68,7 @@ Ferramentas utilizadas nas análises:
 ### Desenvolvido por:
 
 Andressa Lourenço da Rocha
+
+### Contato
+[linkedin](https://www.linkedin.com/in/andressa-lourenco-da-rocha/)
+
